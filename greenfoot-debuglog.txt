@@ -1,0 +1,24 @@
+Greenfoot run started: Tue Sep 21 09:35:35 CEST 2021
+Greenfoot version: 3.7.0
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: D:\StudentskePriecinky\4C\Holubcikova\greenfoot\jdk
+----
+====
+
+====
+Greenfoot run started: Tue Sep 21 09:35:49 CEST 2021
+Greenfoot version: 3.7.0
+Java version 11.0.10
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.10+9 (AdoptOpenJDK)
+Running on: Windows 10 10.0 (amd64)
+Java Home: D:\StudentskePriecinky\4C\Holubcikova\greenfoot\jdk
+----
+Opening project: D:\StudentskePriecinky\4C\Holubcikova\userhome\Projekt1
+1632209835915: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+java.io.FileNotFoundException while reading import cache: userhome\greenfoot\import-cache.xml (The system cannot find the file specified)
